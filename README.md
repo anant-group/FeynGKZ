@@ -62,7 +62,7 @@ FeynGKZ needs the following dependencies:
     The rest of the steps are again similar to those for Linux, including the names of the environment variables, with the difference being that in most modern Macs, the default login-shell is not `bash` but rather `zsh`. So the paths need to be set in the `~/.zshrc` file, accordingly.
 
 4. Further comments:  
-In case one faces with complications regarding installing TOPCOM on their system, they may use a minimal docker build of the same. The image is available [here](https://hub.docker.com/r/sudeepan/topcom), with the corresponding dockerfile being accessible from [here](https://github.com/sudeepan/topcom). One may follow the set of instructions provided in the latter to run this image in a container, and to subsequently rename this container.
+In case one faces complications regarding installing TOPCOM on their system, they may use a minimal docker build of the same. The image is available [here](https://hub.docker.com/r/sudeepan/topcom), with the corresponding dockerfile being accessible from [here](https://github.com/sudeepan/topcom). One may follow the set of instructions provided in the latter to run this image in a container, and to subsequently rename this container.
 
 </details>
 
