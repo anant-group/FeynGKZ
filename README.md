@@ -74,6 +74,7 @@ In case one faces complications regarding installing TOPCOM on their system, the
   3. Installation instructions:  
     On a Linux system, it is usually sufficient to do the following:  
     <pre>
+    $ sudo add-apt-repository ppa:macaulay2/macaulay2
     $ sudo apt install macaulay2
     </pre>
     Further installation instructions have been provided on the Macaulay2 website. 
