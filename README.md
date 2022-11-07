@@ -8,7 +8,7 @@ FeynGKZ needs the following dependencies:
 <details>
   <summary> AMBRE </summary>
   
-  1. Software site: [here](https://jgluza.us.edu.pl/ambre/)
+  1. Software site: [here](https://jgluza.us.edu.pl/ambre/), or right click and "Save link as" [file](http://us.edu.pl/~gluza/ambre/packages/AMBREv2.1.1.m).
   2. Version used: 2.1.1 
   3. Installation instructions:  
 	Move this package to the directory containing FeynGKZ.wl. In Mathematica, this directory is specified by the global variable `FeynGKZPath`.
