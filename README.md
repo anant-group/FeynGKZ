@@ -17,7 +17,7 @@ FeynGKZ : a Mathematica package for solving **Feyn**man Integrals using **GKZ** 
 
 ## Installation of dependencies
 
-FeynGKZ needs the following dependencies:
+FeynGKZ is based on the work presented [here](https://www.sciencedirect.com/science/article/abs/pii/S0010465523000449). It needs the following dependencies:
 
 <details>
   <summary> AMBRE </summary>
